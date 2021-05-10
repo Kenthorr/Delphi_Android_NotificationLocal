@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.581,=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.999,C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.pas=C:\Users\Kenthor\Desktop\Programme Delphi\RetD\Notification\UnitPrincipal.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.999,C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.fmx=C:\Users\Kenthor\Desktop\Programme Delphi\RetD\Notification\UnitPrincipal.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.343,=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.119,C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Project7.dproj=C:\Users\Kenthor\Desktop\Programme Delphi\RetD\Notification\Notification.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.132,=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.950,=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>  <PMacOSx10.15.6 iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
